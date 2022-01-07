@@ -4,7 +4,7 @@
    * animal parameter, then populates the results div with result image
    * paths if the request was successful.
    */
-  function makeRequest() {
+  async function makeRequest() {
     //clear the results div
     document.getElementById("results").innerHTML = "";
 
