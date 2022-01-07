@@ -11,8 +11,9 @@
     // get the animal query that the user has entered
     animalquery = document.getElementById("animal").value;
 
-	//TODO: Make ajax fetch request and call populateResults, or display error message
-	alert("You pressed the button! Now you need to change the code to make an AJAX call");
+    //TODO: Make ajax fetch request and call populateResults, or display error message
+    
+    alert("You pressed the button! Now you need to change the code to make an AJAX call");
   }
   
   /**
